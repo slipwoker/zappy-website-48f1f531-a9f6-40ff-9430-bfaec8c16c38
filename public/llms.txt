@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://anglit-bekeif.zappy5.app
 פלטפורמת לימוד אנגלית לילדים שהופכת כל שיעור להרפתקה! תכנים אינטראקטיביים, שיטות מותאמות לגיל, וחוויית למידה שילדים פשוט אוהבים. הצטרפו עכשיו!
 
 ### תכונות
-https://example.com/features
+https://anglit-bekeif.zappy5.app/features
 גלו את התכונות החדשניות שהופכות את לימוד האנגלית לילדים לחוויה בלתי נשכחת: משחקים, סרטונים, תרגולים ועוד — הכל בממשק ידידותי ומרתק לכל גיל. התנסו היום!
 
 ### אודות
-https://example.com/about
+https://anglit-bekeif.zappy5.app/about
 אנחנו מאמינים שכל ילד יכול לדבר אנגלית בביטחון ובשמחה. הכירו את הצוות, החזון, והשיטה החינוכית שהפכו את אנגלית בכיף לבחירה מספר אחת להורים שרוצים את הטוב ביותר לילדיהם.
 
 ### צור קשר
-https://example.com/contact
+https://anglit-bekeif.zappy5.app/contact
 יש לכם שאלות על לימוד אנגלית לילדים? צוות אנגלית בכיף כאן בשבילכם! צרו קשר עכשיו וקבלו ייעוץ אישי, מענה מהיר, ומידע על כל מה שהפלטפורמה שלנו יכולה להציע לילדכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://anglit-bekeif.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://anglit-bekeif.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://anglit-bekeif.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -45,8 +45,8 @@ Information about WCAG compliance and accessibility features.
 - Phone (tel): tel:0587761213
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://anglit-bekeif.zappy5.app/contact
+- Endpoint: https://anglit-bekeif.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -76,6 +76,6 @@ An educational website aimed at teaching English to children. The platform focus
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://anglit-bekeif.zappy5.app/sitemap.xml
+- Robots: https://anglit-bekeif.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://anglit-bekeif.zappy5.app/llms-full.txt
