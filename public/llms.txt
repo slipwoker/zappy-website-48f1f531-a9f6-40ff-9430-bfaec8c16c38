@@ -40,7 +40,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: qwe026447140@gmail.com
+- Phone: 0587761213
+- Phone (tel): tel:0587761213
 
 ### Contact form
 - URL: https://example.com/contact
